@@ -17,6 +17,9 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="c++" height="40" width="40" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+  <a href="https://code.visualstudio.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" align="center" width="40" height="40"/>
+   </a>
   <img align="center" alt="matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   <img align="right" alt="Danny-pic" height="150" style="border-radius:50px;" 
        src="https://media.discordapp.net/attachments/853829396203700247/938315485760602132/Desenho-de-Coffe-PNG.png?width=665&height=670">
