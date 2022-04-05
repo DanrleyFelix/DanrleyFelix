@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently coding discord bots (python)
 - 🌱 I’m currently learning front-end (JavaScript, HTML5 and CSS3), machine learning, data science, computer vision and QT5 (Python)
-- 📚 Graduation: <b>Eletronic Engineering</b> (concluding)
+- 📚 Graduation: <b>Electronic Engineering</b> (concluding)
 - 📫 Contact me: danrley.felix@cear.ufpb.br
 
 <div align="center">
