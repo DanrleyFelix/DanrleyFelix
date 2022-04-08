@@ -29,7 +29,7 @@
     <img align="center" alt="matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   </a>
   <img align="right" alt="Danny-pic" height="150" style="border-radius:50px;" 
-       src="https://media.discordapp.net/attachments/853829396203700247/938315485760602132/Desenho-de-Coffe-PNG.png?width=665&height=670">
+       src="https://cdn.discordapp.com/attachments/853829396203700247/961812185837887488/pngegg.png?width=665&height=670">
 </div>
   
   ##
