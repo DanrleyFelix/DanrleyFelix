@@ -29,7 +29,7 @@
     <img align="center" alt="matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   </a>
   <img align="right" alt="Danny-pic" height="150" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/853829396203700247/961812185837887488/pngegg.png?width=665&height=670](https://imagensemoldes.com.br/wp-content/uploads/2020/09/Desenho-de-Coffe-PNG-1017x1024.png">
+       src="https://imagensemoldes.com.br/wp-content/uploads/2020/09/Desenho-de-Coffe-PNG-1017x1024.png">
 </div>
   
   ##
