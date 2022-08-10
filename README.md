@@ -1,4 +1,4 @@
-### Hi there ☕. You can call me DaNny.
+### Hi there ☕
 
 - 📚 I'm Completing the <b>Electrical Engineering</b> course with an emphasis on electronics at the Federal University of Paraíba. Studying deep learning, computer vision and embedded systems for my completion of course work, focused on intelligent monitoring systems in beekeeping.
 - 💻 I use the python language to develop desktop interfaces and systems for bots from different platforms such as discord. I've been coding a discord bot focusing on level system for chats, management roles based on the user levels, card system integrated with the whole bot such as lootbox, levels, gambles and coins. The bot works in different discord servers (we have 5000+ users for now).
