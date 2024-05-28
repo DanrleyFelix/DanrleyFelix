@@ -8,7 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/DanrleyFelix">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DanrleyFelix&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanrleyFelix&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
@@ -45,10 +44,9 @@
 
   ##
   
-| Python                           | C/C++               | Assembly        |  
-| -------------------------------- | ------------------- | --------------- 
-| Machine Learning                 | Tiva C & Arduino    | Arm64           |
-| POO, DPS & DPI                   | Microcontrollers    | x86             | 
-
-
-![Snake animation](https://github.com/DanrleyFelix/DanrleyFelix/blob/output/github-contribution-grid-snake.svg)
+| Python               | C/C++               | Other langs       |  
+| -------------------- | ------------------- | ------------------- 
+| ML & Data science    | Tiva C & Arduino    | Asm (Arm, x86...) |
+| POO, DPS & DPI       | Microcontrollers    | HTML, CSS, JS     | 
+| Database             |         -           |        -          | 
+| Interface            |         -           |        -          | 
