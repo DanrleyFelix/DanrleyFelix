@@ -1,9 +1,10 @@
 ### Hi there ☕
 
-- 📚 I'm Completing the <b>Electrical Engineering</b> course with an emphasis on electronics at the Federal University of Paraíba. I have studied deep learning, computer vision and embedded systems for my completion of course work, focused on intelligent monitoring systems in beekeeping.
-- 💻 I use the python language to develop desktop interfaces and systems for discord bots. I've been coding a discord bot focusing on level system for chats, management roles based on the user levels, card system integrated with the whole bot such as lootbox, levels, gambles and coins. The bot works in different discord servers.
-- 🔍 I intend to improve my knowledge about databases.
-- 📫 Contact me: danrley.felix@cear.ufpb.br
+- 📚 I hold a degree in Electrical Engineering (Electronics) from the Federal University of Paraíba. For my undergraduate thesis, I focused on deep learning, computer vision, and embedded systems using C++.
+- 💻 I am proficient in Python, which I use to develop desktop interfaces, bot systems, and perform data analysis.
+- 🔍 I am eager to enhance my expertise in database management, both SQL and NoSQL.
+
+- 📫 Contact me: danrleyfelix@gmail.com
 
 <div align="center">
   <a href="https://github.com/DanrleyFelix">
