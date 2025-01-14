@@ -44,9 +44,10 @@
 
   ##
   
-| Python               | C/C++               | Other langs       |  
-| -------------------- | ------------------- | ------------------- 
-| ML & Data science    | Tiva C & Arduino    | Asm (Arm, x86...) |
-| POO, DPS & DPI       | Microcontrollers    | HTML, CSS, JS     | 
-| Database             |         -           |        -          | 
-| Desktop Interfaces   |         -           |        -          | 
+| Python                | C/C++               | Others techs          |  
+| --------------------- | ------------------- | --------------------- | 
+| ML, DS, DPS, DPI      | Tiva C & Arduino    | ASM (arm, x86, mips)  |
+| POO (Clean code)      | Microcontrollers    | HTML, CSS, JS, TS     | 
+| Database (SQL)        | Microprocessors     | React                 | 
+| Desktop development   |         -           |           -           | 
+| Kivy, QT, opencv, PIL |         -           |           -           | 
