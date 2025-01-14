@@ -44,7 +44,7 @@
 
   ##
   
-| Python                | C/C++               | Others techs          |  
+| Python                | C/C++               | Other techs           |  
 | --------------------- | ------------------- | --------------------- | 
 | ML, DS, DPS, DPI      | Tiva C & Arduino    | ASM (arm, x86, mips)  |
 | POO (Clean code)      | Microcontrollers    | HTML, CSS, JS, TS     | 
