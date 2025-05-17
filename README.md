@@ -44,7 +44,7 @@
     <img align="center" alt="matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   </a>
   <img align="right" alt="Danny-pic" height="150" style="border-radius:50px;" 
-       src="https://i.pinimg.com/originals/94/44/a5/9444a5e0fbd7775d79117e9889b181ad.gif">
+       src="https://c.tenor.com/FkELNdTE-l8AAAAC/tenor.gif">
 </div>
   
   ##
@@ -63,6 +63,6 @@
 | --------------------- | ------------------- | --------------------- | 
 | ML, DS, DPS, DPI      | Tiva C & Arduino    | ASM (arm, x86, mips)  |
 | POO (Clean code)      | Microcontrollers    | HTML, CSS, JS, TS     | 
-| Database (SQL)        | Microprocessors     | React                 | 
+| SQLAlchemy            | Microprocessors     | React                 | 
 | Desktop development   |         -           |           -           | 
 | Kivy, QT, opencv, PIL |         -           |           -           | 
