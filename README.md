@@ -44,7 +44,7 @@
     <img align="center" alt="matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
   </a>
   <img align="right" alt="Danny-pic" height="150" style="border-radius:50px;" 
-       src="https://c.tenor.com/FkELNdTE-l8AAAAC/tenor.gif">
+       src="https://media1.tenor.com/m/FkELNdTE-l8AAAAC/frieren-sip-frieren.gif">
 </div>
   
   ##
