@@ -14,10 +14,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="">
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" align="center" width="40" height="40 />
-  </a>
-  <a href="">
-    <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" align="center" alt="c" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/c.svg" align="center" alt="c" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" align="center" width="40" height="40"/>
@@ -26,23 +23,17 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/assembly.svg" alt="asm" align="center" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html" align="center" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" alt="html" align="center" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css" align="center" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="js" align="center" width="40" height="40"/>
-   </a>
-   <a href="https://www.typescriptlang.org/">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/typescript-icon.svg" alt="js" align="center" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" alt="js" align="center" width="40" height="40"/>
    </a>
    <a href="https://react.dev/">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/react.svg" alt="react" align="center" width="40" height="40"/>
    </a>
-  <a href="https://www.mathworks.com/products/matlab.html">
-    <img align="center" alt="matlab" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png">
-  </a>
   <img align="right" alt="Danny-pic" height="150" style="border-radius:50px;" 
        src="https://media.tenor.com/-FuVAsEDlZcAAAAM/aesthetic-coffee.gif">
 </div>
