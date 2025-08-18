@@ -1,8 +1,16 @@
 ### Hi there ☕
 
-- 📚 I hold a degree in Electrical Engineering (Electronics) from the Federal University of Paraíba. For my undergraduate thesis, I focused on deep learning, computer vision, and embedded systems using C++.
-- 💻 I am proficient in Python, which I use to develop desktop interfaces, bot systems, and perform data analysis.
-- 🔍 I am eager to enhance my expertise in database management, both SQL and NoSQL.
+I hold a degree in Electrical Engineering with an emphasis in Electronics from the Federal University of Paraíba. My academic background includes digital signal processing, industrial instrumentation, data acquisition systems, microprocessors, digital systems, and programming. I also earned certifications from Data Science Academy in Data Science and Artificial Intelligence; from SoloLearn in Data Science and Python; from SENAI in Industry 4.0; and from Bradesco in Computer Networks.
+
+For my thesis, I worked with deep learning, computer vision, and embedded systems using C++, applying machine learning techniques to low-power hardware.
+
+I have experience developing systems and Python libraries for responsive desktop interfaces (Kivy, Qt), process automation, data analysis and manipulation, image processing, and database integration. My work often applies clean architecture principles, reverse engineering, and code optimization for performance.
+
+One of my key projects is a Discord bot with integrated features built with discord.py, SQLAlchemy, Redis, Pillow, and OpenCV for visual profile generation. The solution uses Clean Architecture and several design patterns (Singleton, Strategy, Observer, Repository, Decorator), integrating external APIs and a custom tool — Freya Card Maker, a desktop interface for creating bot cards. The system supports custom card and rune effects, progression levels, automated role management, internal trading, betting mechanics, and other gamified features.
+
+I have also worked with SQL (PostgreSQL), HTML, CSS, and JavaScript, and applied digital audio and video processing techniques in Freya Card Maker.
+
+Currently, I am deepening my expertise in SQL and NoSQL databases, cloud computing, and software architecture, with a focus on clean code design, system organization, and scalable backend development.
 
 - 📫 Contact me: danrleyfelix@gmail.com
 
