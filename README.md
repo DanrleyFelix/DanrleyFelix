@@ -8,9 +8,7 @@ I have experience developing systems and Python libraries for responsive desktop
 
 One of my key projects is a Discord bot with integrated features built with discord.py, SQLAlchemy, Redis, Pillow, and OpenCV for visual profile generation. The solution uses Clean Architecture and several design patterns (Singleton, Strategy, Observer, Repository, Decorator), integrating external APIs and a custom tool — Freya Card Maker, a desktop interface for creating bot cards. The system supports custom card and rune effects, progression levels, automated role management, internal trading, betting mechanics, and other gamified features.
 
-I have also worked with SQL (PostgreSQL), HTML, CSS, and JavaScript, and applied digital audio and video processing techniques in Freya Card Maker.
-
-Currently, I am deepening my expertise in SQL and NoSQL databases, cloud computing, and software architecture, with a focus on clean code design, system organization, and scalable backend development.
+Currently, I am deepening my expertise in SQL and NoSQL databases, and software architecture, with a focus on clean code design, system organization, and scalable backend development.
 
 - 📫 Contact me: danrleyfelix@gmail.com
 
